@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @shaikh123-SGH
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning BSc.IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I'm Mohammed Gaus Shaikh
 
-<!---
-shaikh123-SGH/shaikh123-SGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## 💻 About Me
+
+- 🎓 I am a student passionate about web development.
+- 🛠️ I have experience with **HTML**, **CSS**, and **JavaScript**.
+- 🚀 I have built projects like:
+  - Personal Portfolio Website
+  - Profile Card
+
+## 📫 Connect with Me
+
+- [LinkedIn: mohammedgausshaikh](https://www.linkedin.com/in/mohammedgausshaikh)
+
+## 🧑‍💻 Skills
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+## 📂 Projects
+
+- **Personal Portfolio:** Showcasing my work and skills.
+- **Profile Card:** A simple card displaying user profile information.
+
+---
+
+Thanks for visiting my profile! 😊
