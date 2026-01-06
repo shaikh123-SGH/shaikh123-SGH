@@ -12,7 +12,8 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect with Me
 
-- [LinkedIn: mohammedgausshaikh](https://www.linkedin.com/in/mohammedgausshaikh)
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohammedgaus-shaikh
+
 
 ## 🧑‍💻 Skills
 
