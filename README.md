@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Mohammed Gaus Shaikh
 
-![Visitors](https://komarev.com/ghpvc/?username=shaikh123-SGH&label=Profile%20Views&color=0e75b6&style=flat)
-
 ## 🚀 BSc IT Student | Web Developer | Python Programmer | SQL Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building responsive websites, solving programming problems, and continuously learning modern technologies.
@@ -66,14 +64,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building res
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikh123-SGH&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh123-SGH&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Connect With Me
 
 💼 LinkedIn  
@@ -85,5 +75,6 @@ https://github.com/shaikh123-SGH
 ---
 
 > 🚀 Always learning, always building.
+Thanks for visiting my profile! Feel free to explore my repositories and don't forget to leave a ⭐ if you find them useful.
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and don't forget to leave a ⭐ if you find them useful.
+![Visitors](https://komarev.com/ghpvc/?username=shaikh123-SGH&label=Profile%20Views&color=0e75b6&style=flat)
