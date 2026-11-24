@@ -37,6 +37,9 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building res
 
 # 📂 Featured Projects
 
+- 🎣 **Phishing Scam & Fraud Detection Awareness System** – A web-based awareness platform designed to educate users about phishing scams, online fraud, and safe digital practices.
+  🔗 https://phishing-awareness-system-so7e.onrender.com/
+
 - 🏪 **Azad Enterprises Website** – A responsive and SEO-friendly business website for a hardware & plumbing supplier in Mumbai.  
   🔗 https://github.com/shaikh123-SGH/azad-enterprises-website
 
