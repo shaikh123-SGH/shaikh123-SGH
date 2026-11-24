@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building res
   🔗 https://phishing-awareness-system-so7e.onrender.com/
 
 - 🏪 **Azad Enterprises Website** – A responsive and SEO-friendly business website for a hardware & plumbing supplier in Mumbai.  
-  🔗 https://github.com/shaikh123-SGH/azad-enterprises-website
+  🔗 https://azad-enterprises-website
 
 - 🎵 **Spotify Clone** – A responsive Spotify-inspired music streaming interface built using HTML, CSS and JavaScript.  
   🔗 https://github.com/shaikh123-SGH/spotify-clone
